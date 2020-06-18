@@ -1,2 +1,2 @@
 # Cat-Dog
-App para adoção de animais
+Aplicativo em desenvolvimento para adoção de animais, serve tanto para gatos e cães disponíveis para adoção. 
